@@ -1,0 +1,21 @@
+{
+  "greeting": "Oi",
+  "name": "Professor Vitor",
+  "greetingText": "Gosto muito das suas aulas.",
+  "wishText": "Feliz aniversário Professor, lhe desejo tudo de bom e muitas felicidades.",
+  "imagePath": "img/Vitor.png",
+  "text1": "É o seu aniversário!",
+  "textInChatBox": "Lhe desejo um feliz aniversário.",
+  "sendButtonLabel": "Enviar",
+  "text2": "Era o que eu ia mandar.",
+  "text3": "Mas ai eu parei.",
+  "text4": "E pensei que deveria fazer algo",
+  "text4Adjective": "especial",
+  "text5Entry": "Porque,",
+  "text5Content": "você é especial",
+  "smiley": ":)",
+  "wishHeading": "Feliz Aniversário!",
+  "outroText": "Diga-me caso tenha gostado.",
+  "replayText": "Ou clique se quiser assistir novamente.",
+  "outroSmiley": ":)"
+}
